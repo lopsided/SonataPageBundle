@@ -21,7 +21,7 @@
         "symfony/symfony": "2.1.*",
         "sonata-project/admin-bundle": "dev-master",
         "sonata-project/seo-bundle": "master-dev",
-        "sonata-project/notification-bundle": "2.0.*",
+        "sonata-project/notification-bundle": "master-dev",
         "friendsofsymfony/user-bundle": "dev-master"
     },
     "suggest": {
